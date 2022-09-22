@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200&display=swap');
+*{
+    font-family: Roboto Slab;
+}
+
+.main {
+    background: black;   
+    padding: 5px 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+body{
+    background-image: url(https://img.elo7.com.br/product/600x380/3D04FC4/papel-de-parede-foto-mural-ceu-noite-estrelada-m.jpg) ;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.paragrafo{
+   font-size: 30px;
+   color:white;
+   text-align: center;
+  
+}
+.borda{
+border: solid 5px white;
+border-radius: 20px;
+}
+body{text-shadow: 0.1em 0.1em 0.05em #333}
+p {text-shadow: 0.1em 0.1em 0.05em #333}
